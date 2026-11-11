@@ -42,6 +42,7 @@ main {
     padding: 25px;
     background-color: white;
     border: 2px solid #d3dfec;
+    border-width: 3px;
     border-radius: 12px;
 }
 
